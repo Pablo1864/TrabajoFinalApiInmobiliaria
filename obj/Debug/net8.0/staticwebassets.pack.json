@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\27121b89-6527-40db-a34f-cf12b325c747.jpg",
+      "PackagePath": "staticwebassets\\uploads\\27121b89-6527-40db-a34f-cf12b325c747.jpg"
+    },
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\51e81b80-793f-4e66-91e2-b25978b30c68.jpg",
+      "PackagePath": "staticwebassets\\uploads\\51e81b80-793f-4e66-91e2-b25978b30c68.jpg"
+    },
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\5a8afc1f-d69d-416a-a4da-1328088fcb9d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5a8afc1f-d69d-416a-a4da-1328088fcb9d.jpg"
+    },
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\73a28da0-a09f-44e9-8d98-e19c11594219.jpg",
+      "PackagePath": "staticwebassets\\uploads\\73a28da0-a09f-44e9-8d98-e19c11594219.jpg"
+    },
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\d24f6bf9-d4e4-4469-bd1b-92a88b2098c9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d24f6bf9-d4e4-4469-bd1b-92a88b2098c9.jpg"
+    },
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\da61db3a-57fb-4288-a690-85b2aff200d5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\da61db3a-57fb-4288-a690-85b2aff200d5.jpg"
+    },
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\e6779bdb-11bd-416b-b004-2cfeb8279209.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e6779bdb-11bd-416b-b004-2cfeb8279209.jpg"
+    },
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\f651790a-f3ea-442e-86f6-917182b5f98f.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f651790a-f3ea-442e-86f6-917182b5f98f.jpg"
+    },
+    {
+      "Id": "C:\\Pablo\\ApiNet\\wwwroot\\uploads\\img.jpg",
+      "PackagePath": "staticwebassets\\uploads\\img.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiNet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiNet.props",
+      "PackagePath": "build\\ApiNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiNet.props",
+      "PackagePath": "buildMultiTargeting\\ApiNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiNet.props",
+      "PackagePath": "buildTransitive\\ApiNet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
